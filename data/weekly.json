@@ -3,70 +3,70 @@
     "repo": "morluto/rea",
     "url": "https://github.com/morluto/rea",
     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "stars": "308,581",
+    "stars": "313,873",
     "currentPeriodStars": "239,923 stars this week"
   },
   {
     "repo": "storytold/artcraft",
     "url": "https://github.com/storytold/artcraft",
     "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-    "stars": "31,837",
+    "stars": "32,172",
     "currentPeriodStars": "18,479 stars this week"
   },
   {
     "repo": "boykopovar/AnyPS5",
     "url": "https://github.com/boykopovar/AnyPS5",
     "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-    "stars": "41,845",
+    "stars": "42,342",
     "currentPeriodStars": "16,250 stars this week"
   },
   {
     "repo": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
     "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "stars": "57,064",
+    "stars": "57,304",
     "currentPeriodStars": "8,382 stars this week"
   },
   {
     "repo": "anthropics/claude-plugins-official",
     "url": "https://github.com/anthropics/claude-plugins-official",
     "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "stars": "41,829",
+    "stars": "42,203",
     "currentPeriodStars": "3,581 stars this week"
   },
   {
     "repo": "heygen-com/hyperframes",
     "url": "https://github.com/heygen-com/hyperframes",
     "desc": "Write HTML. Render video. Built for agents.",
-    "stars": "66,034",
+    "stars": "66,240",
     "currentPeriodStars": "5,639 stars this week"
   },
   {
     "repo": "mksglu/context-mode",
     "url": "https://github.com/mksglu/context-mode",
     "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-    "stars": "30,530",
+    "stars": "30,586",
     "currentPeriodStars": "4,438 stars this week"
   },
   {
     "repo": "NationalSecurityAgency/ghidra",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "desc": "Ghidra is a software reverse engineering (SRE) framework",
-    "stars": "90,310",
+    "stars": "90,490",
     "currentPeriodStars": "7,608 stars this week"
   },
   {
     "repo": "mattpocock/skills",
     "url": "https://github.com/mattpocock/skills",
     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-    "stars": "295,172",
+    "stars": "295,537",
     "currentPeriodStars": "11,272 stars this week"
   },
   {
     "repo": "ranxianglei/billion-context",
     "url": "https://github.com/ranxianglei/billion-context",
     "desc": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-    "stars": "1,738",
+    "stars": "1,812",
     "currentPeriodStars": "888 stars this week"
   }
 ]

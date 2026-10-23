@@ -3,105 +3,105 @@
     "repo": "morluto/rea",
     "url": "https://github.com/morluto/rea",
     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "stars": "371,449",
+    "stars": "372,599",
     "currentPeriodStars": "106,341 stars this week"
   },
   {
     "repo": "anthropics/claude-plugins-official",
     "url": "https://github.com/anthropics/claude-plugins-official",
     "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "stars": "44,052",
+    "stars": "44,099",
     "currentPeriodStars": "5,649 stars this week"
   },
   {
     "repo": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
     "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "stars": "78,680",
+    "stars": "78,742",
     "currentPeriodStars": "3,708 stars this week"
   },
   {
     "repo": "android/skills",
     "url": "https://github.com/android/skills",
     "desc": "",
-    "stars": "9,368",
+    "stars": "9,395",
     "currentPeriodStars": "1,384 stars this week"
   },
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
     "desc": "The open source coding agent.",
-    "stars": "220,503",
+    "stars": "220,571",
     "currentPeriodStars": "6,750 stars this week"
   },
   {
     "repo": "stablyai/orca",
     "url": "https://github.com/stablyai/orca",
     "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "stars": "103,515",
+    "stars": "103,689",
     "currentPeriodStars": "9,401 stars this week"
   },
   {
     "repo": "cursor/plugins",
     "url": "https://github.com/cursor/plugins",
     "desc": "Cursor plugin specification and official plugins",
-    "stars": "13,737",
+    "stars": "13,768",
     "currentPeriodStars": "2,046 stars this week"
   },
   {
     "repo": "akitaonrails/ai-memory",
     "url": "https://github.com/akitaonrails/ai-memory",
     "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "stars": "12,938",
+    "stars": "12,998",
     "currentPeriodStars": "3,322 stars this week"
   },
   {
     "repo": "HKUDS/CLI-Anything",
     "url": "https://github.com/HKUDS/CLI-Anything",
     "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-    "stars": "56,476",
+    "stars": "56,536",
     "currentPeriodStars": "3,275 stars this week"
   },
   {
     "repo": "Comfy-Org/ComfyUI",
     "url": "https://github.com/Comfy-Org/ComfyUI",
     "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-    "stars": "142,270",
+    "stars": "142,316",
     "currentPeriodStars": "4,375 stars this week"
   },
   {
     "repo": "debpalash/VoiceStudio",
     "url": "https://github.com/debpalash/VoiceStudio",
     "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "stars": "82,637",
+    "stars": "83,047",
     "currentPeriodStars": "13,581 stars this week"
   },
   {
     "repo": "heygen-com/hyperframes",
     "url": "https://github.com/heygen-com/hyperframes",
     "desc": "Write HTML. Render video. Built for agents.",
-    "stars": "70,545",
+    "stars": "70,707",
     "currentPeriodStars": "5,669 stars this week"
   },
   {
     "repo": "K-Dense-AI/scientific-agent-skills",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-    "stars": "54,139",
+    "stars": "54,181",
     "currentPeriodStars": "3,967 stars this week"
   },
   {
     "repo": "NationalSecurityAgency/ghidra",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "desc": "Ghidra is a software reverse engineering (SRE) framework",
-    "stars": "93,486",
+    "stars": "93,595",
     "currentPeriodStars": "4,892 stars this week"
   },
   {
     "repo": "elie222/rakazo",
     "url": "https://github.com/elie222/rakazo",
     "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "stars": "5,370",
+    "stars": "5,415",
     "currentPeriodStars": "1,166 stars this week"
   }
 ]

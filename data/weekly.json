@@ -3,105 +3,98 @@
     "repo": "cloudflare/security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "stars": "45,636",
+    "stars": "46,152",
     "currentPeriodStars": "12,680 stars this week"
-  },
-  {
-    "repo": "morluto/rea",
-    "url": "https://github.com/morluto/rea",
-    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "stars": "380,993",
-    "currentPeriodStars": "78,562 stars this week"
-  },
-  {
-    "repo": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "stars": "44,444",
-    "currentPeriodStars": "3,232 stars this week"
   },
   {
     "repo": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
     "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "stars": "79,134",
+    "stars": "79,197",
     "currentPeriodStars": "3,241 stars this week"
-  },
-  {
-    "repo": "stablyai/orca",
-    "url": "https://github.com/stablyai/orca",
-    "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "stars": "105,261",
-    "currentPeriodStars": "9,828 stars this week"
-  },
-  {
-    "repo": "anomalyco/opencode",
-    "url": "https://github.com/anomalyco/opencode",
-    "desc": "The open source coding agent.",
-    "stars": "221,324",
-    "currentPeriodStars": "6,857 stars this week"
-  },
-  {
-    "repo": "cursor/plugins",
-    "url": "https://github.com/cursor/plugins",
-    "desc": "Cursor plugin specification and official plugins",
-    "stars": "13,957",
-    "currentPeriodStars": "1,729 stars this week"
-  },
-  {
-    "repo": "android/skills",
-    "url": "https://github.com/android/skills",
-    "desc": "",
-    "stars": "9,649",
-    "currentPeriodStars": "1,317 stars this week"
   },
   {
     "repo": "anthropics/knowledge-work-plugins",
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "stars": "32,779",
+    "stars": "32,877",
     "currentPeriodStars": "2,631 stars this week"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "desc": "The open source coding agent.",
+    "stars": "221,417",
+    "currentPeriodStars": "6,857 stars this week"
+  },
+  {
+    "repo": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "stars": "105,470",
+    "currentPeriodStars": "9,828 stars this week"
   },
   {
     "repo": "heygen-com/hyperframes",
     "url": "https://github.com/heygen-com/hyperframes",
     "desc": "Write HTML. Render video. Built for agents.",
-    "stars": "71,739",
+    "stars": "71,906",
     "currentPeriodStars": "5,633 stars this week"
   },
   {
-    "repo": "Comfy-Org/ComfyUI",
-    "url": "https://github.com/Comfy-Org/ComfyUI",
-    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-    "stars": "142,768",
-    "currentPeriodStars": "4,648 stars this week"
-  },
-  {
-    "repo": "akitaonrails/ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "stars": "13,366",
-    "currentPeriodStars": "3,541 stars this week"
+    "repo": "android/skills",
+    "url": "https://github.com/android/skills",
+    "desc": "",
+    "stars": "9,676",
+    "currentPeriodStars": "1,317 stars this week"
   },
   {
     "repo": "Graphify-Labs/graphify",
     "url": "https://github.com/Graphify-Labs/graphify",
     "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-    "stars": "134,676",
+    "stars": "134,860",
     "currentPeriodStars": "6,868 stars this week"
   },
   {
-    "repo": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-    "stars": "56,937",
-    "currentPeriodStars": "3,069 stars this week"
+    "repo": "akitaonrails/ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "stars": "13,437",
+    "currentPeriodStars": "3,541 stars this week"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "stars": "142,841",
+    "currentPeriodStars": "4,648 stars this week"
+  },
+  {
+    "repo": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "stars": "44,479",
+    "currentPeriodStars": "3,232 stars this week"
   },
   {
     "repo": "vllm-project/vllm",
     "url": "https://github.com/vllm-project/vllm",
     "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-    "stars": "95,414",
+    "stars": "95,447",
     "currentPeriodStars": "1,371 stars this week"
+  },
+  {
+    "repo": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "stars": "223,633",
+    "currentPeriodStars": "2,981 stars this week"
+  },
+  {
+    "repo": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "desc": "",
+    "stars": "29,994",
+    "currentPeriodStars": "1,778 stars this week"
   }
 ]

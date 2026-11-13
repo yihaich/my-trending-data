@@ -3,98 +3,105 @@
     "repo": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "desc": "Hunt down social media accounts by username across social networks",
-    "stars": "110,868",
+    "stars": "111,096",
     "currentPeriodStars": "14,381 stars this week"
   },
   {
     "repo": "anthropics/skills",
     "url": "https://github.com/anthropics/skills",
     "desc": "Public repository for Agent Skills",
-    "stars": "193,967",
+    "stars": "194,117",
     "currentPeriodStars": "6,055 stars this week"
   },
   {
     "repo": "milind-soni/OpenMausBot",
     "url": "https://github.com/milind-soni/OpenMausBot",
     "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-    "stars": "22,016",
+    "stars": "22,159",
     "currentPeriodStars": "9,104 stars this week"
   },
   {
     "repo": "vercel-labs/agent-browser",
     "url": "https://github.com/vercel-labs/agent-browser",
     "desc": "Browser automation CLI for AI agents",
-    "stars": "50,551",
+    "stars": "50,694",
     "currentPeriodStars": "4,601 stars this week"
+  },
+  {
+    "repo": "google/elephant-goldfish-model",
+    "url": "https://github.com/google/elephant-goldfish-model",
+    "desc": "Open-source plugin for designing and reviewing software with agents",
+    "stars": "18,589",
+    "currentPeriodStars": "5,555 stars this week"
   },
   {
     "repo": "ZhuLinsen/daily_stock_analysis",
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "stars": "71,292",
+    "stars": "71,552",
     "currentPeriodStars": "3,569 stars this week"
   },
   {
     "repo": "NVIDIA/auto-ontology",
     "url": "https://github.com/NVIDIA/auto-ontology",
     "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-    "stars": "12,440",
+    "stars": "12,540",
     "currentPeriodStars": "5,802 stars this week"
   },
   {
     "repo": "google-deepmind/mujoco",
     "url": "https://github.com/google-deepmind/mujoco",
     "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "stars": "17,826",
+    "stars": "17,867",
     "currentPeriodStars": "1,671 stars this week"
   },
   {
     "repo": "mattpocock/skills",
     "url": "https://github.com/mattpocock/skills",
     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-    "stars": "323,475",
+    "stars": "323,790",
     "currentPeriodStars": "8,731 stars this week"
   },
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
-    "stars": "117,004",
+    "stars": "117,128",
     "currentPeriodStars": "3,199 stars this week"
   },
   {
     "repo": "cloudflare/security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "stars": "71,566",
+    "stars": "71,878",
     "currentPeriodStars": "10,700 stars this week"
   },
   {
     "repo": "zed-industries/zed",
     "url": "https://github.com/zed-industries/zed",
     "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-    "stars": "94,916",
+    "stars": "94,952",
     "currentPeriodStars": "2,339 stars this week"
   },
   {
     "repo": "anthropics/claude-quickstarts",
     "url": "https://github.com/anthropics/claude-quickstarts",
     "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-    "stars": "20,832",
+    "stars": "20,863",
     "currentPeriodStars": "1,710 stars this week"
   },
   {
     "repo": "vercel-labs/agent-desktop",
     "url": "https://github.com/vercel-labs/agent-desktop",
     "desc": "Computer use CLI for AI agents",
-    "stars": "23,068",
+    "stars": "23,266",
     "currentPeriodStars": "6,414 stars this week"
   },
   {
     "repo": "lobehub/lobehub",
     "url": "https://github.com/lobehub/lobehub",
     "desc": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
-    "stars": "85,280",
+    "stars": "85,373",
     "currentPeriodStars": "1,186 stars this week"
   }
 ]

@@ -3,77 +3,77 @@
     "repo": "meta/astryx",
     "url": "https://github.com/meta/astryx",
     "desc": "An open source design system that's fully customizable and agent ready",
-    "stars": "28,245",
+    "stars": "28,500",
     "currentPeriodStars": "13,660 stars this week"
   },
   {
     "repo": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "desc": "Hunt down social media accounts by username across social networks",
-    "stars": "111,865",
+    "stars": "112,118",
     "currentPeriodStars": "12,401 stars this week"
   },
   {
     "repo": "anthropics/skills",
     "url": "https://github.com/anthropics/skills",
     "desc": "Public repository for Agent Skills",
-    "stars": "194,687",
+    "stars": "195,038",
     "currentPeriodStars": "6,220 stars this week"
   },
   {
     "repo": "vercel-labs/agent-browser",
     "url": "https://github.com/vercel-labs/agent-browser",
     "desc": "Browser automation CLI for AI agents",
-    "stars": "51,275",
+    "stars": "51,407",
     "currentPeriodStars": "4,601 stars this week"
   },
   {
     "repo": "google/elephant-goldfish-model",
     "url": "https://github.com/google/elephant-goldfish-model",
     "desc": "Open-source plugin for designing and reviewing software with agents",
-    "stars": "19,263",
+    "stars": "19,442",
     "currentPeriodStars": "5,539 stars this week"
   },
   {
     "repo": "milind-soni/OpenMausBot",
     "url": "https://github.com/milind-soni/OpenMausBot",
     "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-    "stars": "22,858",
+    "stars": "23,046",
     "currentPeriodStars": "6,413 stars this week"
   },
   {
     "repo": "ZhuLinsen/daily_stock_analysis",
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "stars": "72,285",
+    "stars": "72,382",
     "currentPeriodStars": "4,526 stars this week"
   },
   {
     "repo": "google-deepmind/mujoco",
     "url": "https://github.com/google-deepmind/mujoco",
     "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "stars": "17,995",
+    "stars": "18,033",
     "currentPeriodStars": "1,859 stars this week"
   },
   {
     "repo": "backnotprop/plannotator",
     "url": "https://github.com/backnotprop/plannotator",
     "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-    "stars": "11,251",
+    "stars": "11,590",
     "currentPeriodStars": "818 stars this week"
   },
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
-    "stars": "117,623",
+    "stars": "117,750",
     "currentPeriodStars": "3,670 stars this week"
   },
   {
     "repo": "anthropics/claude-quickstarts",
     "url": "https://github.com/anthropics/claude-quickstarts",
     "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-    "stars": "20,998",
+    "stars": "21,029",
     "currentPeriodStars": "1,794 stars this week"
   }
 ]

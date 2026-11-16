@@ -1,79 +1,100 @@
 [
   {
+    "repo": "GoogleChrome/modern-web-guidance-src",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "desc": "Keep your coding agent up to date with the latest web best practices",
+    "stars": "7,783",
+    "currentPeriodStars": "5,692 stars this week"
+  },
+  {
     "repo": "meta/astryx",
     "url": "https://github.com/meta/astryx",
     "desc": "An open source design system that's fully customizable and agent ready",
-    "stars": "29,020",
+    "stars": "29,362",
     "currentPeriodStars": "13,501 stars this week"
-  },
-  {
-    "repo": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "desc": "Public repository for Agent Skills",
-    "stars": "195,462",
-    "currentPeriodStars": "6,077 stars this week"
-  },
-  {
-    "repo": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "desc": "Hunt down social media accounts by username across social networks",
-    "stars": "112,608",
-    "currentPeriodStars": "10,412 stars this week"
   },
   {
     "repo": "backnotprop/plannotator",
     "url": "https://github.com/backnotprop/plannotator",
     "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-    "stars": "11,975",
+    "stars": "12,286",
     "currentPeriodStars": "1,719 stars this week"
+  },
+  {
+    "repo": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "desc": "Public repository for Agent Skills",
+    "stars": "195,720",
+    "currentPeriodStars": "6,077 stars this week"
   },
   {
     "repo": "vercel-labs/agent-browser",
     "url": "https://github.com/vercel-labs/agent-browser",
     "desc": "Browser automation CLI for AI agents",
-    "stars": "51,703",
+    "stars": "51,870",
     "currentPeriodStars": "4,217 stars this week"
-  },
-  {
-    "repo": "ZhuLinsen/daily_stock_analysis",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "stars": "72,573",
-    "currentPeriodStars": "4,548 stars this week"
   },
   {
     "repo": "we-promise/sure",
     "url": "https://github.com/we-promise/sure",
     "desc": "The personal finance app for everyone (by everyone)",
-    "stars": "15,756",
+    "stars": "15,884",
     "currentPeriodStars": "4,556 stars this week"
   },
   {
-    "repo": "milind-soni/OpenMausBot",
-    "url": "https://github.com/milind-soni/OpenMausBot",
-    "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-    "stars": "23,552",
-    "currentPeriodStars": "5,463 stars this week"
+    "repo": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "stars": "72,713",
+    "currentPeriodStars": "4,548 stars this week"
+  },
+  {
+    "repo": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "Hunt down social media accounts by username across social networks",
+    "stars": "112,940",
+    "currentPeriodStars": "10,412 stars this week"
   },
   {
     "repo": "google/elephant-goldfish-model",
     "url": "https://github.com/google/elephant-goldfish-model",
     "desc": "Open-source plugin for designing and reviewing software with agents",
-    "stars": "19,876",
+    "stars": "20,150",
     "currentPeriodStars": "5,060 stars this week"
   },
   {
     "repo": "google-deepmind/mujoco",
     "url": "https://github.com/google-deepmind/mujoco",
     "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "stars": "18,095",
+    "stars": "18,148",
     "currentPeriodStars": "1,922 stars this week"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "stars": "52,714",
+    "currentPeriodStars": "2,238 stars this week"
   },
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
-    "stars": "118,006",
+    "stars": "118,182",
     "currentPeriodStars": "3,889 stars this week"
+  },
+  {
+    "repo": "openai/codex-security",
+    "url": "https://github.com/openai/codex-security",
+    "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "stars": "13,680",
+    "currentPeriodStars": "2,294 stars this week"
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "desc": "An open-source AI coding agent that lives in your terminal.",
+    "stars": "30,591",
+    "currentPeriodStars": "1,469 stars this week"
   }
 ]

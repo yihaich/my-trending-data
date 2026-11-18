@@ -3,98 +3,98 @@
     "repo": "GoogleChrome/modern-web-guidance-src",
     "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
     "desc": "Keep your coding agent up to date with the latest web best practices",
-    "stars": "8,300",
-    "currentPeriodStars": "6,542 stars this week"
+    "stars": "8,442",
+    "currentPeriodStars": "7,015 stars this week"
   },
   {
     "repo": "backnotprop/plannotator",
     "url": "https://github.com/backnotprop/plannotator",
     "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-    "stars": "12,934",
-    "currentPeriodStars": "2,325 stars this week"
+    "stars": "13,061",
+    "currentPeriodStars": "2,926 stars this week"
   },
   {
     "repo": "meta/astryx",
     "url": "https://github.com/meta/astryx",
     "desc": "An open source design system that's fully customizable and agent ready",
-    "stars": "29,969",
-    "currentPeriodStars": "10,939 stars this week"
+    "stars": "30,139",
+    "currentPeriodStars": "8,700 stars this week"
   },
   {
     "repo": "we-promise/sure",
     "url": "https://github.com/we-promise/sure",
     "desc": "The personal finance app for everyone (by everyone)",
-    "stars": "16,188",
-    "currentPeriodStars": "4,679 stars this week"
+    "stars": "16,266",
+    "currentPeriodStars": "4,786 stars this week"
   },
   {
     "repo": "ZhuLinsen/daily_stock_analysis",
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "stars": "73,024",
-    "currentPeriodStars": "4,355 stars this week"
+    "stars": "73,081",
+    "currentPeriodStars": "3,653 stars this week"
   },
   {
     "repo": "anthropics/skills",
     "url": "https://github.com/anthropics/skills",
     "desc": "Public repository for Agent Skills",
-    "stars": "196,514",
-    "currentPeriodStars": "5,666 stars this week"
+    "stars": "196,725",
+    "currentPeriodStars": "4,847 stars this week"
   },
   {
     "repo": "elementalsouls/Claude-BugHunter",
     "url": "https://github.com/elementalsouls/Claude-BugHunter",
     "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-    "stars": "8,469",
-    "currentPeriodStars": "1,747 stars this week"
+    "stars": "9,247",
+    "currentPeriodStars": "2,508 stars this week"
   },
   {
     "repo": "alibaba/open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
     "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "stars": "53,495",
-    "currentPeriodStars": "3,056 stars this week"
+    "stars": "53,713",
+    "currentPeriodStars": "3,675 stars this week"
   },
   {
     "repo": "vercel-labs/agent-browser",
     "url": "https://github.com/vercel-labs/agent-browser",
     "desc": "Browser automation CLI for AI agents",
-    "stars": "52,261",
-    "currentPeriodStars": "3,760 stars this week"
+    "stars": "52,364",
+    "currentPeriodStars": "3,429 stars this week"
   },
   {
     "repo": "ChromeDevTools/chrome-devtools-mcp",
     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "desc": "Chrome DevTools for coding agents",
-    "stars": "57,972",
-    "currentPeriodStars": "2,593 stars this week"
+    "stars": "58,029",
+    "currentPeriodStars": "2,948 stars this week"
   },
   {
     "repo": "tradermonty/claude-trading-skills",
     "url": "https://github.com/tradermonty/claude-trading-skills",
     "desc": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-    "stars": "6,770",
-    "currentPeriodStars": "2,407 stars this week"
+    "stars": "6,858",
+    "currentPeriodStars": "2,985 stars this week"
   },
   {
     "repo": "google-labs-code/stitch-skills",
     "url": "https://github.com/google-labs-code/stitch-skills",
     "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-    "stars": "9,961",
-    "currentPeriodStars": "943 stars this week"
+    "stars": "10,092",
+    "currentPeriodStars": "1,197 stars this week"
   },
   {
     "repo": "openai/codex-security",
     "url": "https://github.com/openai/codex-security",
     "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-    "stars": "13,890",
-    "currentPeriodStars": "2,352 stars this week"
+    "stars": "13,957",
+    "currentPeriodStars": "2,531 stars this week"
   },
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
-    "stars": "118,566",
-    "currentPeriodStars": "3,960 stars this week"
+    "stars": "118,658",
+    "currentPeriodStars": "3,884 stars this week"
   }
 ]
